@@ -1,0 +1,3 @@
+# Unclosed Parentheses in Python Function
+
+This example demonstrates a common syntax error in Python where parentheses are not properly closed in a function definition. The code snippet contains a function `function_with_unclosed_parentheses` which lacks a closing parenthesis in its definition. This results in a syntax error and prevents the code from running successfully.  The solution shows how to correct the code by adding the missing closing parenthesis, ensuring the function definition is syntactically correct. 
